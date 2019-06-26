@@ -1,0 +1,2 @@
+This Repository contains the PCB design for the monitoring bracelet circuit of my bachelor project 2016,
+later on SMD-components were soldered on the PCB-board.
